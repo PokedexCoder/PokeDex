@@ -16,7 +16,8 @@
   width: 200px;
   height: 98px;
   z-index: -1;
-  margin-left: 870px;
+  margin-left: 1060px;
+  margin-top: -310px;
   
 }
 
@@ -87,7 +88,7 @@ ol{
   /*background-color:darkgrey;*/
     grid-area: ban;
     width: 116px;
-    height: 500px;
+    height: 700px;
     margin-left: -1px;
     
   }
@@ -96,7 +97,7 @@ ol{
     /*background-color:darkgrey;*/
     grid-area: banner;
     width: 117px;
-    height: 500px;
+    height: 700px;
     margin-left: -8px;
     
   }
@@ -105,7 +106,7 @@ ol{
 
 
 .conteudo{
-  background-color: rgb(255, 255, 255);
+  
   grid-area: conteudo;
   border-radius: 15px;
   padding: 20px;
@@ -117,8 +118,9 @@ ol{
 .ash{
   width: 300px;
   height: 300px;
-  margin-left: 700px;
-  margin-top: -300px;
+  margin-top: -250px;
+  margin-left: 600px;
+  
 }
 
 .link{
@@ -242,7 +244,7 @@ ol{
   .log{
     gap: 1px;
     margin-top: -450px;
-    margin-left: 340px;
+    margin-left: 590px;
   
   }
 
@@ -273,6 +275,13 @@ gap: 10px;
 
 }
 
+.ash{
+  width: 300px;
+  height: 300px;
+  margin-top: -250px;
+  margin: -300px;
+  display: none;
+}
 
 
 
