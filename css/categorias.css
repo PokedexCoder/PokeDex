@@ -82,7 +82,7 @@ ol{
 /*Conteudo*/
 
 .conteudo{
-  
+  display: grid;
   grid-area: conteudo;
   border-radius: 15px;
 
